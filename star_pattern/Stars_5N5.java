@@ -1,4 +1,4 @@
-package star_patterns;
+package star_pattern;
 /*
 
 *****
